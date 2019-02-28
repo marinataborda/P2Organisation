@@ -12,13 +12,13 @@ Organisatiorischer Teil
 		Projektstrukturplan/Arbeitspakete
 	Budget
 		Personalaufwand
-		Material und andere Aufw‰nde
+		Material und andere Aufw√§nde
 	Kommunikationskonzept (KIS)
 	Risiko-Analyse
 	Projektvereinbarung
 
 Fachlicher Teil
-	‹bersicht
+	√úbersicht
 		Ausgangslage
 		Projektziele
 		Lieferobjekte
@@ -33,7 +33,7 @@ Fachlicher Teil
 		Gesamtsystem
 		Teilsysteme
 		...
-	?Wirtschaftlichkeit
+	Wirtschaftlichkeit
 Schlussfolgerung
 Verzeichnisse
 		
