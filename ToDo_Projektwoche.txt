@@ -2,15 +2,22 @@ TO DO
 
 Ziel: Betaversion fertigstellen
 
+Software
+
+Laden/Speicher:
+	- Umwandlung des Programmstatus in Textformat
 
 Design:
+	- Schaltbild einfügen //Migu
+		- aktueller Komponenten Wert in Schema anzeigen	
 
-
-Kurven: 
 
 
 Berechnungen:
+	- Berechnungen validieren //Luca
+	- An Dalessandro schicken //Luca
 
 
 
 Fachbericht:
+	- Disposition in Fachbericht //Fady
