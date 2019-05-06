@@ -7,9 +7,10 @@ Software
 Laden/Speicher:
 	- Umwandlung des Programmstatus in Textformat
 
-Design:
-	- Schaltbild einfügen //Migu
+Design: - Tabs für Graphen&Schemas //Migu -done
+	- Schaltbild einfügen //Migu -eingefügt, Bilder müssen überarbeitet werden
 		- aktueller Komponenten Wert in Schema anzeigen	
+                - Beschriftung einfügen
 
 
 
