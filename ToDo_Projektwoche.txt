@@ -7,18 +7,21 @@ Software
 Laden/Speicher:
 	- Umwandlung des Programmstatus in Textformat
 
-Design: - Tabs für Graphen&Schemas //Migu -done
+Design: 	- Tabs für Graphen&Schemas //Migu -done
 	- Schaltbild einfügen //Migu -eingefügt, Bilder müssen überarbeitet werden
-		- aktueller Komponenten Wert in Schema anzeigen	
+	- aktueller Komponenten Wert in Schema anzeigen	
                 - Beschriftung einfügen
+	- Umstrukturierung CSS Files (cern, etc.) 
 
 
 
 Berechnungen:
 	- Berechnungen validieren //Luca
-	- An Dalessandro schicken //Luca
 
 
 
 Fachbericht:
-	- Disposition in Fachbericht //Fady
+	- Einleitung verbessern
+	- Disposition verbessern
+	- Beginnen 
+	 
