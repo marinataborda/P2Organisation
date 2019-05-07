@@ -22,7 +22,7 @@ Berechnungen:
 
 Fachbericht:
 	- Einleitung verbessern
-	- Disposition verbessern //Marina
+	- Layout //Marina 
 	 
 
 Präsentation:
