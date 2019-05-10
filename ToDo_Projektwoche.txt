@@ -1,29 +1,22 @@
-TO DO 
+ 
+To Do
+Freitach:
 
-Ziel: Betaversion fertigstellen
+- Save load funktion (lang)
+	- Export Data funktion
+- Michel Tooltips drüber gehen, Beschreibung stimmen nicht überall
+- Tooltips abschalten
 
-Software
+- Legende zu den Farben
+- Slider unten wegen hover  (Sliderbox)
+- Graph verschiebung zahlen (Padding)
 
-Laden/Speicher:
-	- Umwandlung des Programmstatus in Textformat
-
-
-Design: 	- Tabs für Graphen&Schemas //Migu -done
-	- Schaltbild einfügen //Migu -eingefügt, Bilder müssen überarbeitet werden
-	- aktueller Komponenten Wert in Schema anzeigen	
-                - Beschriftung einfügen
-	- Umstrukturierung CSS Files (cern, etc.) 
-
-
-Berechnungen:
-	- Berechnungen validieren //Luca
+- Public Methoden kommentieren
+- putzen
 
 
+- Farben lines in Ordnung bringen //erledigt Frank
+- Trace anwenden
+- Grid Lines anpassen (und Zoom) //erledigt Frank
 
-Fachbericht:
-	- Einleitung verbessern
-	- Layout //Marina 
-	 
-
-Präsentation:
-	- Vorlage erstellen 
+(- Dark/Light Layo
