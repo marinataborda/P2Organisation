@@ -2,7 +2,7 @@
 To Do
 Freitach:
 
-- Save load funktion (lang)
+- Save load funktion (lang) //Wunschziel
 	- Export Data funktion
 - Michel Tooltips drüber gehen, Beschreibung stimmen nicht überall
 - Tooltips abschalten
@@ -19,4 +19,14 @@ Freitach:
 - Trace anwenden
 - Grid Lines anpassen (und Zoom) //erledigt Frank
 
-(- Dark/Light Layo
+(- Dark/Light Layout
+
+
+
+Dalessandro:
+- Simulation in Anhang
+- Spannungsquelle 
+- Streuinduktivität umnennen
+
+
+Informationen zur Software unten im ecken um was gehts - Sensitivityanalysis, Datum Autoren -> kleine Schaltung? 
