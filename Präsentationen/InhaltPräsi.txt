@@ -1,0 +1,35 @@
+Präsentation pro2E
+
+Zielgruppe: Auftraggeber
+Vorwissen: Keine Softwarekenntnisse, Vorstellungen von elektrotechnischen Aspekten
+
+- Besonderheiten der Software 
+
+- Muss-Ziele
+	Die Software basiert auf der Programmiersprache Java, Version JDK11.
+	Die Software läuft auf den aktuellen Betriebssystemen von MacOS (ab Version 10.11) und Windows (7 oder neuer) fehlerfrei.
+	Die Software ist in der MVC-Architektur realisiert.
+	Die Bedienoberfläche soll für 80% der Nutzenden als bedienungsfreundlich und selbsterklärend empfunden werden.
+	Die Bedienoberfläche wird mit JavaFX realisiert.
+	Die Werte der parasitären Parameter sind einstellbar und zusätzlich um ?30% veränderbar via Schieberegler.
+	Die Einfügungsverluste werden in Abhängigkeit der Fre-quenz [CM & DM] graphisch dargestellt.
+	Die Berechnungen der Einfügungsverluste sind korrekt. Das heisst, sie stimmen mit den Simulationen vom Auf-traggeber überein.
+	Die Berechnungen der Einfügungsverluste dauern weni-ger als eine Sekunde.
+	Die Schaltung wird mit den relevanten Bauteilen ent-sprechend der Aufgabenstellung simuliert.
+
+- Wunschziele
+	Die Ergebnisse (Graphen & Parameter) können als PDF- oder Textdatei gespeichert werden.
+	Gespeicherte Dateien können geladen werden (Save-Load-Option).
+	Bei Parameteränderungen mittels Slider wird eine zu-sätzliche Kurve der Verluständerung dargestellt.
+	Die Sensibilitätsanalyse kann dargestellt werden.
+	Es können beliebige Schaltungen erstellt und simuliert werden.
+
+
+- Wie wurde die Aufgabe gelöst und implementiert
+
+- Stundenüebrsicht, PM, 
+
+
+- Fragen
+
+
