@@ -1,0 +1,77 @@
+// Praesentation P02
+
+// Einleitung
+Begrüssung bla
+Wir möchten mit einer Folie starten, welche einigen von euch vielleicht bekannt ist.
+Wir möchten nochmals ganz an den Beginn, wo nur der Kühlschrank und die Kaffeemaschine war.
+Was die beiden Geräte verbindet, beide hängen am Netz und besitzten somit einen Netzfilter.
+Um solche Netzfilter, namentlich der Firma Schaffner, geht es heute.
+Dazu haben wir eine Software entwickelt, welche die Eigenschaften von Netzfilter genauer betrachtet.
+Diese möchten wir euch heute vorstellen möchten.
+
+// Basic Software
+Kurven
+Regler
+ToolTipps
+
+Elektrotechnik
+
+Zur Elektrotechnik möchte ich nur kurz darauf eingehen, was wir gemacht haben und zeigen,
+dass die Berechnungen korrekt sind. Womit schlussendlich die Software brauchbar ist.
+
+Zur genauen Vorgehensweise der Berechnungen, und wie wir sie in die Software implementiert haben,
+möchte ich nicht genauer eingehen, da dies den Rahmen der Präsentation sprengen würde,
+und ich die Zeit bis zum Apero nicht unnötig in die Länge ziehen möchte.
+
+Was ich jedoch zeigen möchte, sind die simulierten und die berechneten Kurven.
+Wir haben in der einen Kurve die Schaltung mit MPLAB simuliert und in der
+anderen Kurve die Daten aus der Software übernommen.
+Hier sieht man nun die beiden Kurven übereinander. Daraus geht hervor, die Simulation
+stimmt mit unserer Berechnung überein. Dies wurde sowohl für den CM, wie auch für
+den DM Mode gemacht.
+
+Software Wunschziele
+
+Nebst den Hauptfunktionen der Software, welche euch Frank schon gezeigt hat, haben
+wir auch noch einige Features eingebaut, welche dem Nutzenden noch mehr Möglichkeiten geben die Anwendung voll auszukosten.
+
+Zuerst möchten wir euch die Safe / Load Funtkion vorstellen. Dabei können alle
+Parameterwerte und sonstige Einstellungen der Software gespeicheret werden.
+
+Wir haben hier schon einen Filter gespeicheret und können diesen nun öffnen.
+
+CISPR Mode
+Cispr steht für Communiqe international specification pour radioelectric ()
+Worin beschrieben wird, dass der Filter mit den Referenzwiderständen (Innen und Lastwiderstand simuliert wird)
+Standartmässig wird dies mit 50 / 50 getan, wie auch diese Kurven hier.
+Wer aber einen Blick in die Datenblätter wirft, wird sehen, dass auch andere Referenzwiderstände zum Einsatz kommen, welche
+für den Anwender interessant sind.
+Zum einen die 0.1 / 100 und zum anderen die 100 / 0.1 Umgebung.
+Diese unterschiedlichen Bezugswiderstände können im Menu ausgewählt werden.
+Man sieht so gleich, dass die Kurven sofort neu gezeichnet werden.
+
+Swipe Mode
+Zu unserem nächstem Feature, dem Sweep Mode.
+Wir fanden die Idee mit den DJ mässigen Slidern interessant, doch irgendwie auch etwas mühsam diese ständig mit der Maus
+zu packen und zu verschieben, dass man sieht was passiert.
+Deshalb haben wir uns überlegt die Einflüsse der einzelnen Parametern gleich darzustellen, sobald man mit der Maus
+über die jeweiligen Paramter fährt.
+
+Dies sieht folgendermassen aus *raunen geht durch den Raum*
+Dabei werden verschiedene Kurven zwischen dem minmal und dem maximal Wert des jeweiligen Sliders gezeichnet.
+Hierbei wird der User mit Hilfe der unterschiedlichen Farben unterstüzt, indem man direkt sieht, in welche Richtung Man
+den Slider bewegen muss.
+
+Linear / Logartihmic Mode
+Nun kommen wir zu unserem letzten kleine Feature, welches wir auch sehr spannend finden.
+Mit der momentanen Einstellung der Slider waren wir nicht immer ganz zufrieden.
+Deshalb wollten wir dem Nutzenden einen grösseren Spielbereich geben.
+Weshalb man beim Sweep Menu nun auswählen kann zwischen Linear und Logartihmic.
+Dabei ändern sich die maximal und minimal Werte der Filter, sowie die Auswirkung der
+Sensitivitätsanalyse.
+
+alle Einstellungen wie Parameterwete, SweepMode, CISPR bleiben bei einem gespeicherten Fillter
+erhalten.
+
+About
+bla
